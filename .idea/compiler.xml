@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="File_Server.File_Server-task-build-classes-java.main" target="15" />
+      <module name="File_Server.File_Server-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="File_Server.File_Server-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="File_Server.File_Server-task-build-reports-tests.main" target="15" />
+      <module name="File_Server.File_Server-task-build-test-results.main" target="15" />
+      <module name="File_Server.File_Server-task-build-tmp.main" target="15" />
+      <module name="File_Server.File_Server-task.main" target="15" />
+      <module name="File_Server.Topics-Executors-Asynchronous_email_sending.main" target="15" />
+      <module name="File_Server.Topics-Executors-Check_whether_a_number_is_prime.main" target="15" />
+      <module name="File_Server.Topics-Executors-Executor_types.main" target="15" />
+      <module name="File_Server.Topics-Executors-Messaging.main" target="15" />
+      <module name="File_Server.Topics-Executors-Supplying_a_task.main" target="15" />
+      <module name="File_Server.Topics-Executors-The_order_of_lines_in_output.main" target="15" />
+      <module name="File_Server.Topics-Executors-Theory.main" target="15" />
+      <module name="File_Server.util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

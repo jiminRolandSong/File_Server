@@ -1,0 +1,31 @@
+type: matching
+captions:
+- Executors.newSingleThreadExecutor()
+- Executors.newCachedThreadPool()
+- Executors.newSingleThreadScheduledExecutor()
+- Executors.newFixedThreadPool(N)
+options:
+- An executor that schedules a task
+- An executor with the growing pool
+- An executor with a single thread
+- An executor with N threads
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13650#comment
+status: Solved
+record: -1
+ordering:
+- 0
+- 1
+- 2
+- 3

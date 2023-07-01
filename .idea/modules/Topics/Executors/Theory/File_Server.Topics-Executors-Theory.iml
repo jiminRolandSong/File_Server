@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Executors-Theory" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Executors/Theory" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="File Server" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Executors/Theory">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Executors/Theory/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Executors/Theory/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Executors/Theory/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
